@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nq3d51.tabularasa.com.ng/sitemap.xml
